@@ -17,8 +17,15 @@ Trained model weights are available under 'releases'. We'll keep training on mor
 # Network activation and filter visualisation
 
 Final network layer activation for two random pieces:
+
+
+Beethoven:
 ![Beethoven](images/Beethoven_Visualisation.jpg)
+
+
+Chopin:
 ![Chopin](images/Chopin_Visualisation.jpg)
+
 
 Random filters visualised (filters lower in the image are deeper in the network):
 ![Filters](images/Filters.jpg)
