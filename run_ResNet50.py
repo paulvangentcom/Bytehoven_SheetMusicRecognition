@@ -4,7 +4,7 @@ from scipy import ndimage
 from keras import callbacks
 from keras.optimizers import Adamax, SGD, RMSprop
 
-import ResNet50
+import resnet50
 
 def convert_to_one_hot(Y, C):
     '''Converts array with labels to one-hot encoding
