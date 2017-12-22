@@ -58,7 +58,7 @@ What is so difficult about classifying her work eludes me. She is often confused
 
 Releases:
 - Release V0.1: bytehoven-7-weights.hdf5 -- Model weights trained on medium sized set with 7 composers (full training log included), reaching 99.5% validation accuracy on test set.
-- Release V0.2: bytehoven-22-weights.hdf5 -- Model weights trained on 22 composers (training log and composer list included).
+- Release V0.2: bytehoven-22-weights.hdf5 -- Model weights trained on 22 composers (training log and composer list included), reaching 76.44% validation on test set and 98.23% on the train set.
 
 
 
