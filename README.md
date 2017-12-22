@@ -33,13 +33,13 @@ Saint-Saens: "I have stayed in Paris to speak ill of Pelléas et Mélisande." (a
 Debussy: "I have a horror of sentimentality, and I cannot forget that its name is Saint-Saëns."
 [source](http://janeheiress.blogspot.nl/2009/08/camille-saint-saens-where-have-you-been.html)
 
-![Debussy](images/33cat/hard_composers/Debuddy.jpg)
+![Debussy](images/33cat/hard_composers/Debussy.jpg)
 
 It seems these contemporary rivals may share more stylistic devices that they might have liked to admit, according to the classifications made by Bytehoven.
 
 Lastly, the most impossible composer to classify is Clara Schumann: 
 
-![Clara Schumann](images/33cat/hard_composers/Shumann_Clara.jpg)
+![Clara Schumann](images/33cat/hard_composers/Schumann_Clara.jpg)
 
 What is so difficult about classifying her work eludes me. She is often confused with Chaminade (the only other female composer in the set!) and Satie. Both were contemporaries of Clara in here later years, so there might have been some influence there.
 
