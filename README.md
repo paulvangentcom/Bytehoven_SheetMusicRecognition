@@ -31,6 +31,7 @@ This is especially interesting, since Rubinstein [was Tchaikovsky's composition 
 Contemporaries Debussy and Saint-Saens are also confused by the model. Interestingly, these contemporary composers were not fans of [each other's work](https://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns#1900–21:_Last_years). Immortalised in the quotes:
 
 Saint-Saens: "I have stayed in Paris to speak ill of Pelléas et Mélisande." (a Debussy opera)
+
 Debussy: "I have a horror of sentimentality, and I cannot forget that its name is Saint-Saëns."
 [source](http://janeheiress.blogspot.nl/2009/08/camille-saint-saens-where-have-you-been.html)
 
