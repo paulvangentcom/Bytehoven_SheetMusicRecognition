@@ -20,7 +20,7 @@ The net was trained for 100 epochs, starting with learning rate 0.001 which deca
 
 
 # Current Results
-The current released model version (V0.4) scores 73.53% validation accuracy on the test set (99.97% train set, 71.30% dev set).
+The current released model version (V0.4) scores 73.53% validation accuracy on the test set (99.97% train set, 71.30% dev set), and can discriminate between a total of 45 composers.
 
 When evaluating difficult to classify composers, an interesting pattern arose with Rubinstein. Anton Rubinstein is often confused with Tchaikovsky and Rachmaninov:
 
