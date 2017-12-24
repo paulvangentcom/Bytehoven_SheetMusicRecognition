@@ -20,7 +20,7 @@ The net was trained for 100 epochs, starting with learning rate 0.001 which deca
 
 
 # Current Results
-The current released model version scores 76.44% validation accuracy on the test set (98.23% train set, 73.41% dev set).
+The current released model version (V0.4) scores 73.53% validation accuracy on the test set (99.97% train set, 71.30% dev set).
 
 When evaluating difficult to classify composers, an interesting pattern arose with Rubinstein. Anton Rubinstein is often confused with Tchaikovsky and Rachmaninov:
 
@@ -59,6 +59,7 @@ What is so difficult about classifying her work eludes me. She is often confused
 Releases:
 - Release V0.1: bytehoven-7-weights.hdf5 -- Model weights trained on medium sized set with 7 composers (full training log included), reaching 99.5% validation accuracy on test set.
 - Release V0.2: bytehoven-22-weights.hdf5 -- Model weights trained on 22 composers (training log and composer list included), reaching 76.44% validation on test set and 98.23% on the train set.
+- Release V0.4: bytehoven-45-weights.hdf5 -- Model weights trained on 45 composers (training log and composer list included).
 
 
 
