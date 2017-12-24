@@ -38,13 +38,13 @@ Debussy: "I have a horror of sentimentality, and I cannot forget that its name i
 
 ![Debussy](images/33cat/hard_composers/Debussy.jpg)
 
-It seems these contemporary rivals may share more stylistic devices that they might have liked to admit, according to the classifications made by Bytehoven.
+It seems these contemporary rivals may share more stylistic devices that they might have liked to admit, at least in the eyes of Bytehoven.
 
 Lastly, the most impossible composer to classify is Clara Schumann: 
 
 ![Clara Schumann](images/33cat/hard_composers/Schumann_Clara.jpg)
 
-What is so difficult about classifying her work eludes me. She is often confused with Chaminade (the only other female composer in the set!) and Satie. Both were contemporaries of Clara in here later years, so there might have been some influence there.
+What is so difficult about classifying her work eludes me. She is often confused with Chaminade (the only other female composer in the set!) and Satie. Both were contemporaries of Clara in her later years, so there might have been some influence there.
 
 
 
