@@ -26,7 +26,8 @@ When evaluating difficult to classify composers, an interesting pattern arose wi
 
 ![Rubinstein](images/33cat/hard_composers/Rubinstein.jpg)
 
-This is especially interesting, since Rubinstein [was Tchaikovsky's composition teacher](https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky#Civil_service;_pursuing_music), and Rachmaninov's [early compositional influence](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff#Compositional_style) was Tchaikovsky, and who also expressed having Rubinstein as a role model.
+This is especially interesting, since Rubinstein [was Tchaikovsky's composition teacher](https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky#Civil_service;_pursuing_music), and Rachmaninov's [early compositional influence](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff#Compositional_style) was Tchaikovsky (he also expressed having Rubinstein as a role model).
+
 
 Contemporaries Debussy and Saint-Saens are also confused by the model. Interestingly, these contemporary composers were not fans of [each other's work](https://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns#1900–21:_Last_years). Immortalised in the quotes:
 
@@ -39,6 +40,7 @@ Debussy: "I have a horror of sentimentality, and I cannot forget that its name i
 ![Debussy](images/33cat/hard_composers/Debussy.jpg)
 
 It seems these contemporary rivals may share more stylistic devices that they might have liked to admit, at least in the eyes of Bytehoven.
+
 
 Lastly, the most impossible composer to classify is Clara Schumann: 
 
