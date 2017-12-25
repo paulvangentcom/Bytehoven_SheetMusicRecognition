@@ -2,7 +2,7 @@
 
 ![Byethoven](images/Bytehoven.jpeg)
 
-This repository contains the resources used in the development of Bytehoven, a deep learning sheet music recognition model currently in development. [Please find the full tutorial here.](http://www.paulvangent.com/2017/12/07/deep-learning-music/) The current version recognises piano music from Bach, Beethoven, Brahms, Chopin, Grieg, Liszt, and Mozart.
+This repository contains the resources used in the development of Bytehoven, a deep learning sheet music recognition model currently in development. [Please find the full tutorial here.](http://www.paulvangent.com/2017/12/07/deep-learning-music/) The current version recognises piano music from 45 composers (see 'composerlist.csv').
 
 Trained model weights are available under 'releases'. We'll keep training on more data and composers to increase Bytehoven's knowledge base.
 
